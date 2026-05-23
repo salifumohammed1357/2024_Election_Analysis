@@ -5,7 +5,7 @@ This project examines how leading Ghanaian media organizations—including Daily
 The study applies Natural Language Processing (NLP) and topic modeling techniques to uncover dominant themes in election-related news coverage. It further compares these media-driven narratives with voter priority data obtained from Global Info Analytics to identify alignment or gaps between media focus and public concerns.
 
 Interactive dashboard:
-https://2024elections-gzvwqour9wuhxiyrx4kecq.streamlit.app/
+https://2024electionanalysis-fashho9ardqjebujmruull.streamlit.app/
 
 Objectives
 To identify dominant themes in Ghanaian election-related media coverage
